@@ -8,5 +8,5 @@ O arquivo countries.csv é usado para designar cores diferentes para cada país.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 
-O arquivo .ipynb é um programa em Python que foi usado para gerar a nuvem de palavras elaborada para esta pesquisa de doutoramento. Esse programa usou o arquivo “nuvemtitulosfinal2024essa.txt” onde as palavras escolhidas para constar na nuvem foram estruturadas na ordem: palavra; ranking; frequência, separadas pelo sinal de ponto e vírgula.  
+O arquivo .ipynb é um programa em Python que foi usado para gerar a nuvem de palavras elaborada para esta pesquisa de doutoramento. Esse programa usou o arquivo “nuvem resumo patentes essa tese.ipynb”  onde as palavras escolhidas para constar na nuvem foram estruturadas na ordem: palavra; ranking; frequência, separadas pelo sinal de ponto e vírgula.  
 
